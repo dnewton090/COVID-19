@@ -1,4 +1,4 @@
-# COVID-19  |  Wrangling & wisualization project (1/2)
+# COVID-19  |  Wrangling & visualization project (1/2)
 
 ## Data Exploration &amp; Mining with Python
 #### Authors: Doug Newton & Gandip Khaling

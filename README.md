@@ -1,10 +1,9 @@
-# COVID-19
+# COVID-19  |  Wrangling & wisualization project (1/2)
 
-### Data Exploration &amp; Mining with Python
+## Data Exploration &amp; Mining with Python
+#### Authors: Doug Newton & Gandip Khaling
 
-##### Authors: Doug Newton & Gandip Khaling
-
-Wrangling & wisualization project (1/2):  COVID-19 data up to April 24, 2020. 
+* COVID-19 data up to April 24, 2020. 
 
 Next steps:  extend to live updating, connect to JHS-CEE Github page, look into Dash interactive plotting
 
